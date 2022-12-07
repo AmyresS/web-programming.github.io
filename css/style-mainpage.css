@@ -47,7 +47,7 @@ body{
 .header-bg{
 	font-family: "Calibri";
 	text-align: center;
-	background: url("images/background.png");
+	background: url("../images/background.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
