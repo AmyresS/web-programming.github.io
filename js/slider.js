@@ -1,6 +1,6 @@
-	var img1 = "/images/War/original.jpg"
-	var img2 = "/images/War/20ce79ee10fdfa7_800x500.jpg"
-	var img3 = "/images/War/rosijski-vijska-naroshhennya-zs-rf-ar-sichen-2022.jpg"
+	var img1 = "images/War/original.jpg"
+	var img2 = "images/War/20ce79ee10fdfa7_800x500.jpg"
+	var img3 = "images/War/rosijski-vijska-naroshhennya-zs-rf-ar-sichen-2022.jpg"
 	var which_img = 2;
 	function prev() {
 		switch (which_img) {
