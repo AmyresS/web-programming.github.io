@@ -43,7 +43,7 @@ body{
 .header-bg{
 	font-family: "Calibri";
 	text-align: center;
-	background: url("images/Lviv/background.jpg");
+	background: url("../images/Lviv/background.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
